@@ -14,3 +14,7 @@ code {
     monospace;
 }
 
+body {
+  background-image:linear-gradient(rgba(128, 55, 13, 0.445), rgb(0, 0, 0)), url(https://res.cloudinary.com/dnxtjocny/image/upload/v1678898629/Pagina%20Coder/413db611fa794a117a642ee2bd1154eb_mfjcjr.jpg);
+}
+

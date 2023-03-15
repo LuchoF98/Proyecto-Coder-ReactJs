@@ -1,0 +1,13 @@
+.navbar{    
+    height: 8rem;
+}
+
+.logopag{
+    width: 120px;
+    height: 120px;
+}
+.nav-item {
+    font-weight: bolder;
+    font-size: large;
+    text-decoration: none;
+}
